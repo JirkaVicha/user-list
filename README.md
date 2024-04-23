@@ -1,15 +1,15 @@
-### User List
+# User List
 
 The app fetches random users API from randomuser.me/api.
 
 The app war created with:
 
-# React Vite
+### React Vite
 
-# React useState, useEffect hooks
+### React useState, useEffect hooks
 
-# Axios library
+### Axios library
 
-# CSS Flex approach
+### CSS Flex approach
 
 Live preview: https://
