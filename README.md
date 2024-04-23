@@ -12,4 +12,4 @@ The app war created with:
 
 ### CSS Flex approach
 
-Live preview: https://
+Live preview: https://users-people.netlify.app/
