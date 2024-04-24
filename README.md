@@ -1,8 +1,5 @@
 # User List
-
-The app fetches random users API from randomuser.me/api.
-
-The app war created with:
+This app displays a list of users fetched from an external API. Each user is represented as a card with their information, including their name, email, age, nationality, phone number, address, and a profile picture. The user's information is structured neatly into two columns: the left side contains personal details, and the right side displays their profile picture and address. It's a handy way to showcase a list of users with their essential details in a visually appealing manner.
 
 ### React Vite
 
